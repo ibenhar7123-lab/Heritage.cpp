@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Heritage C++">
+		<Project filename="exo01_personne_etudiant/exo01_personne_etudiant.cbp" active="1" />
+		<Project filename="exo02_compte_epargne/exo02_compte_epargne.cbp" />
+		<Project filename="exo03_produits/exo03_produits.cbp" />
+		<Project filename="exo04_employes/exo04_employes.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

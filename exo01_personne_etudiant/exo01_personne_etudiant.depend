@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1793728199 source:c:\users\user\onedrive\bureau\heritage.cpp\exo01_personne_etudiant\main.cpp
+	"Etudiant.h"
+
+1793728199 c:\users\user\onedrive\bureau\heritage.cpp\exo01_personne_etudiant\etudiant.h
+	"Personne.h"
+
+1793728199 c:\users\user\onedrive\bureau\heritage.cpp\exo01_personne_etudiant\personne.h
+	<iostream>
+	<string>
+
